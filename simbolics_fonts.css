@@ -1,0 +1,103 @@
+/*
+ FONTES SIMBOLICAS 
+ fontes mais animadas (elas podem ser náo carregadas dependendo do navedaor aplicação ou plataforma)
+
+*/
+@font-face{
+   font-family:simbols_1;
+   src:url("ttfsimbolics/Infinite.ttf");
+   }
+
+
+@font-face{
+  font-family:simbols_2;
+   src:url("ttfsimbolics/MartianRobotics.otf");
+}
+
+
+@font-face{
+   font-family:simbols_3;
+   src:url("ttfsimbolics/Minecrafter.Alt.ttf");
+}
+
+
+@font-face{
+   font-family:simbols_4;
+   src:url("ttfsimbolics/Playtoy.ttf");
+}
+
+@font-face{
+   font-family:simbols_5;
+   src:url("ttfsimbolics/Quantum.otf");
+}
+
+@font-face{
+  font-family:simbols_6;
+   src:url("ttfsimbolics/SweraShadowedDemo.otf");
+}
+
+@font-face{
+  font-family:simbols_7;
+   src:url("ttfsimbolics/waltographUI.ttf");
+}
+
+@font-face{
+  font-family:simbols_8;
+   src:url("ttfsimbolics/tmj_by_mallagueta_pepper-d62rr8r.ttf");
+}
+
+@font-face{
+   font-family:simbols_9;
+   src:url("ttfsimbolics/SFSportsNightNSUpright.ttf");
+}
+
+@font-face{
+  font-family:simbols_10;
+   src:url("ttfsimbolics/RobloxFontLight.ttf");
+}
+
+
+@font-face{
+   font-family:simbols_11;
+   src:url("ttfsimbolics/RomeoJuliet.otf");
+}
+
+@font-face{
+   font-family:simbols_12;
+   src:url("ttfsimbolics/LovelyValentine.ttf");
+}
+
+@font-face{
+   font-family:simbols_13;
+   src:url("ttfsimbolics/Mahens.ttf");
+}
+
+@font-face{
+   font-family:simbols_14;
+   src:url("ttfsimbolics/LUMOS.TTF");
+}
+
+@font-face{
+  font-family:simbols_15;
+  src:url("ttfsimbolics/neon2.ttf");
+}
+
+@font-face{
+  font-family:simbols_16;
+  src:url("ttfsimbolics/NEON____.TTF");
+}
+
+@font-face{
+  font-family:simbols_17;
+  src:url("ttfsimbolics/Moanas.ttf");
+}
+
+@font-face{
+  font-family:simbols_18;
+  src:url("ttfsimbolics/WavingatChristmas.ttf");
+}
+
+@font-face{
+  font-family:simbols_19;
+  src:url("ttfsimbolics/TechnoBoard.ttf");
+}
