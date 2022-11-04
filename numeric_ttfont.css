@@ -1,0 +1,416 @@
+/*
+COLEÇOES DE 30 FONTES NESTE ARQUIVO DE ESTILO
+Este programa esta sobre licença de código aberto 
+*/
+@font-face{
+   font-family:f1;
+   src:url("ttfs/f1/f1.css");
+}
+
+
+@font-face{
+  font-family:f2;
+   src:url("ttfs/f2/f2.css");
+}
+
+
+@font-face{
+   font-family:f3;
+   src:url("ttfs/f3/f3.css");
+}
+
+
+@font-face{
+   font-family:f4;
+   src:url("ttfs/f4/f4.css");
+}
+
+@font-face{
+   font-family:f5;
+   src:url("ttfs/f5/f5.css");
+}
+
+@font-face{
+  font-family:f6;
+   src:url("ttfs/f6/f6.css");
+}
+
+@font-face{
+  font-family:f7;
+   src:url("ttfs/f7/f7.css");
+}
+
+@font-face{
+  font-family:f8;
+   src:url("ttfs/f8/f8.css");
+}
+
+@font-face{
+   font-family:f9;
+   src:url("ttfs/f9/f9.css");
+}
+
+@font-face{
+  font-family:f10;
+   src:url("ttfs/f10/f10.css");
+}
+
+@font-face{
+   font-family:f11;
+   src:url("ttfs/f11/f11.css");
+}
+
+@font-face{
+   font-family:f12;
+   src:url("ttfs/f12/f12.css");
+}
+
+@font-face{
+   font-family:f13;
+   src:url("ttfs/f13/f13.otf");
+}
+
+@font-face{
+   font-family:f14;
+   src:url("ttfs/f14/f14.css");
+}
+
+@font-face{
+   font-family:f15;
+   src:url("ttfs/f15/f15.css");
+}
+
+@font-face{
+   font-family:f16;
+   src:url("ttfs/f16/f16.css");
+}
+
+@font-face{
+  font-family:17;
+   src:url("ttfs/f17/f17.css");
+}
+
+@font-face{
+   font-family:f18;
+   src:url("ttfs/f18/f18.css");
+}
+
+@font-face{
+   font-family:f19;
+   src:url("ttfs/f19/f19.css");
+}
+
+@font-face{
+   font-family:f20;
+   src:url("ttfs/f20/f20.css");
+}
+
+@font-face{
+   font-family:f21;
+   src:url("ttfs/f21/f21.css");
+}
+
+@font-face{
+   font-family:f22;
+   src:url("ttfs/f22/f22.css");
+}
+
+@font-face{
+   font-family:f23;
+   src:url("ttfs/f23/f23.css");
+}
+
+@font-face{
+   font-family:f24;
+   src:url("ttfs/f24/f24.otf");
+}
+
+@font-face{
+   font-family:f25;
+   src:url("ttfs/f25/f25.css");
+}
+
+@font-face{
+   font-family:f26;
+   src:url("ttfs/f26/f26.css");
+}
+
+@font-face{
+   font-family:f27;
+   src:url("ttfs/f27/f27.css");
+}
+
+@font-face{
+   font-family:f28;
+   src:url("ttfs/f28/f28.css");
+}
+
+@font-face{
+  font-family:f29;
+   src:url("ttfs/f29/f29.css");
+}
+
+@font-face{
+   font-family:f30;
+   src:url("ttfs/f30/f30.css");
+}
+
+
+@font-face{
+   font-family:f31;
+   src:url("ttfs/f31/f31.css");
+}
+
+
+@font-face{
+   font-family:f32;
+   src:url("ttfs/f32/f32.css");
+}
+
+
+@font-face{
+   font-family:f33;
+   src:url("ttfs/f33/f33.css");
+}
+
+
+@font-face{
+   font-family:f34;
+   src:url("ttfs/f34/f34.css");
+}
+
+
+@font-face{
+   font-family:f35;
+   src:url("ttfs/f35/f35.css");
+}
+
+
+@font-face{
+   font-family:f36;
+   src:url("ttfs/f36/f36.css");
+}
+
+
+@font-face{
+   font-family:f37;
+   src:url("ttfs/f37/f37.css");
+}
+
+
+@font-face{
+   font-family:f38;
+   src:url("ttfs/f38/f38.css");
+}
+
+
+@font-face{
+   font-family:f39;
+   src:url("ttfs/f39/f39.css");
+}
+@font-face{
+   font-family:f1;
+   src:url("ttfs/f1/f1.css");
+}
+
+
+@font-face{
+  font-family:f2;
+   src:url("ttfs/f2/f2.css");
+}
+
+
+@font-face{
+   font-family:f3;
+   src:url("ttfs/f3/f3.css");
+}
+
+
+@font-face{
+   font-family:f4;
+   src:url("ttfs/f4/f4.css");
+}
+
+@font-face{
+   font-family:f5;
+   src:url("ttfs/f5/f5.css");
+}
+
+@font-face{
+  font-family:f6;
+   src:url("ttfs/f6/f6.css");
+}
+
+@font-face{
+  font-family:f7;
+   src:url("ttfs/f7/f7.css");
+}
+
+@font-face{
+  font-family:f8;
+   src:url("ttfs/f8/f8.css");
+}
+
+@font-face{
+   font-family:f9;
+   src:url("ttfs/f9/f9.css");
+}
+
+@font-face{
+  font-family:f10;
+   src:url("ttfs/f10/f10.css");
+}
+
+@font-face{
+   font-family:f11;
+   src:url("ttfs/f11/f11.css");
+}
+
+@font-face{
+   font-family:f12;
+   src:url("ttfs/f12/f12.css");
+}
+
+@font-face{
+   font-family:f13;
+   src:url("ttfs/f13/f13.otf");
+}
+
+@font-face{
+   font-family:f14;
+   src:url("ttfs/f14/f14.css");
+}
+
+@font-face{
+   font-family:f15;
+   src:url("ttfs/f15/f15.css");
+}
+
+@font-face{
+   font-family:f16;
+   src:url("ttfs/f16/f16.css");
+}
+
+@font-face{
+  font-family:17;
+   src:url("ttfs/f17/f17.css");
+}
+
+@font-face{
+   font-family:f18;
+   src:url("ttfs/f18/f18.css");
+}
+
+@font-face{
+   font-family:f19;
+   src:url("ttfs/f19/f19.css");
+}
+
+@font-face{
+   font-family:f20;
+   src:url("ttfs/f20/f20.css");
+}
+
+@font-face{
+   font-family:f21;
+   src:url("ttfs/f21/f21.css");
+}
+
+@font-face{
+   font-family:f22;
+   src:url("ttfs/f22/f22.css");
+}
+
+@font-face{
+   font-family:f23;
+   src:url("ttfs/f23/f23.css");
+}
+
+@font-face{
+   font-family:f24;
+   src:url("ttfs/f24/f24.otf");
+}
+
+@font-face{
+   font-family:f25;
+   src:url("ttfs/f25/f25.css");
+}
+
+@font-face{
+   font-family:f26;
+   src:url("ttfs/f26/f26.css");
+}
+
+@font-face{
+   font-family:f27;
+   src:url("ttfs/f27/f27.css");
+}
+
+@font-face{
+   font-family:f28;
+   src:url("ttfs/f28/f28.css");
+}
+
+@font-face{
+  font-family:f29;
+   src:url("ttfs/f29/f29.css");
+}
+
+@font-face{
+   font-family:f30;
+   src:url("ttfs/f30/f30.css");
+}
+
+
+@font-face{
+   font-family:f31;
+   src:url("ttfs/f31/f31.css");
+}
+
+
+@font-face{
+   font-family:f32;
+   src:url("ttfs/f32/f32.css");
+}
+
+
+@font-face{
+   font-family:f33;
+   src:url("ttfs/f33/f33.css");
+}
+
+
+@font-face{
+   font-family:f34;
+   src:url("ttfs/f34/f34.css");
+}
+
+
+@font-face{
+   font-family:f35;
+   src:url("ttfs/f35/f35.css");
+}
+
+
+@font-face{
+   font-family:f36;
+   src:url("ttfs/f36/f36.css");
+}
+
+
+@font-face{
+   font-family:f37;
+   src:url("ttfs/f37/f37.css");
+}
+
+
+@font-face{
+   font-family:f38;
+   src:url("ttfs/f38/f38.css");
+}
+
+
+@font-face{
+   font-family:f39;
+   src:url("ttfs/f39/f39.css");
+}
